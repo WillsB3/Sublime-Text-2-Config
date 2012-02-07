@@ -1,2 +1,4 @@
 [
+    { "keys": ["home"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+    { "keys": ["end"], "command": "move_to", "args": {"to": "eol", "extend": false} }
 ]
